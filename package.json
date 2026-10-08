@@ -1,0 +1,9 @@
+{
+  "name": "opencode-go-usage",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "go-usage.ts",
+  "dependencies": {
+    "@opencode-ai/plugin": "1.18.18"
+  }
+}
